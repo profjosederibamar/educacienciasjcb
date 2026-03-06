@@ -1,0 +1,7 @@
+{
+  "name": "EducaTocantins: Ciências",
+  "description": "Aplicativo educacional baseado na Matriz de Recomposição da Aprendizagem de Ciências da Natureza do Tocantins (2026). Focado em inclusão, interatividade e recomposição de aprendizagem para o Ensino Fundamental.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
